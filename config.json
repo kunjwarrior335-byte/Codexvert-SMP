@@ -1,9 +1,9 @@
 {
-  "serverName": "Fill server name here",
-  "serverIp": "example.com",
+  "serverName": "Codexvert Mc",
+  "serverIp": "play.codexvert.com",
   "bedrockPort": 19132,
   "bedrockPlayersCanJoin": true, 
-  "discordLink": "https://discord.gg/S763GafZPR",
+  "discordLink": "https://discord.gg/dsvuwvPEdB",
   "logoPath": "logo.jpg",
   "defaultColour": "red",
   "_defaultColourHelp": "Choose red, blue, yellow, purple, white, pink, or orange."
