@@ -1,10 +1,10 @@
 {
-  "serverName": "Drift Development",
-  "serverIp": "play.example.com",
+  "serverName": "Codexvert Network",
+  "serverIp": "play.codexvert.com",
   "bedrockPort": 19132,
-  "bedrockPlayersCanJoin": true,
-  "discordLink": "https://discord.gg/S763GafZPR",
-  "logoPath": "",
-  "defaultColour": "blue",
+  "bedrockPlayersCanJoin": true, 
+  "discordLink": "https://discord.gg/dsvuwvPEdB",
+  "logoPath": "codexvertlogo.png",
+  "defaultColour": "red",
   "_defaultColourHelp": "Choose red, blue, yellow, purple, white, pink, or orange."
 }
