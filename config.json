@@ -4,7 +4,7 @@
   "bedrockPort": 19132,
   "bedrockPlayersCanJoin": true, 
   "discordLink": "https://discord.gg/dsvuwvPEdB",
-  "logoPath": "logo.jpg",
+  "logoPath": "codexvertlogo.png",
   "defaultColour": "red",
   "_defaultColourHelp": "Choose red, blue, yellow, purple, white, pink, or orange."
 }
